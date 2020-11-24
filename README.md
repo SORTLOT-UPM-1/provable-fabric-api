@@ -1,6 +1,9 @@
 # Provable Fabric API [![Join the chat at https://gitter.im/oraclize/fabric-api](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/oraclize/fabric-api?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Docs@Oraclize.it](https://camo.githubusercontent.com/5e89710c6ae9ce0da822eec138ee1a2f08b34453/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f63732d536c6174652d627269676874677265656e2e737667)](http://docs.oraclize.it) [![HitCount](http://hits.dwyl.io/provable-things/fabric-api.svg)](http://hits.dwyl.io/provable-things/fabric-api) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 &nbsp;
 
+* __This is a fork of the original Provable repository for SORTLOT purposes__
+___
+
 Thanks to this __Fabric API__, enriching your chaincodes with external data using __Provable__ is very easy!
 
 In Golang it is as simple as importing the __`oraclize/fabric-api`__ that you'll find in this repository.
